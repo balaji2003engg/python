@@ -14,3 +14,5 @@ https://pynative.com/python-encapsulation/
 Polymorphism 
 
 https://www.geeksforgeeks.org/polymorphism-in-python/
+
+https://www.sanfoundry.com/python-program-check-number-palindrome/
