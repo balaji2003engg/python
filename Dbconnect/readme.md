@@ -7,3 +7,7 @@ Install below Packages
   pip install boto3
 
 ref: https://www.dbtales.com/connect-to-mysql-using-python-and-visual-studio-code/
+
+Connect to Aurora DB
+
+Ref : https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Connecting.html#Aurora.Connecting.AuroraMySQL.Utilities
