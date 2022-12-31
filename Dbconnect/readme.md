@@ -15,3 +15,7 @@ Ref : https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Connec
 DB Queries
 
 SET SQL_SAFE_UPDATES = 0;
+
+pymysql
+
+https://www.geeksforgeeks.org/connect-to-mysql-using-pymysql-in-python/
