@@ -1,0 +1,6 @@
+create table student (rollno varchar(10),name varchar(30),email varchar(50),grade varchar(20),gender varchar(10));
+desc student
+insert into student values('101','balaji','balaji@gmail.com','10th','Male');
+insert into student values('102','bala','bala@gmail.com','11th','Male');
+select * from student where name = 'balaji'
+delete  from student where name = 'bala';
