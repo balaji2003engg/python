@@ -7,3 +7,8 @@ Solution:
 3. Install the workbench to access the DB
 4. Create the app.py which will  website with DB connectivity
 5. Make sure  that templates folder should have requried html pages which is going to ready by app.py
+
+
+reference links
+https://www.edureka.co/blog/background-image-in-html/
+https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Connecting.html
