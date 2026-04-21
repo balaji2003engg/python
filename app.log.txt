@@ -1,0 +1,10 @@
+2026-04-17 10:00:01 INFO Application started
+2026-04-17 10:01:15 WARNING Disk usage is high
+2026-04-17 10:02:30 ERROR Failed to connect to database
+2026-04-17 10:03:10 INFO Retrying connection
+2026-04-17 10:04:22 ERROR Connection timeout
+2026-04-17 10:05:45 INFO Application running
+2026-04-17 10:06:55 WARNING Memory usage high
+2026-04-17 10:07:30 ERROR Unable to fetch data
+2026-04-17 10:07:30 ERROR 10.5.4.22 to fetch data
+2026-04-17 10:07:30 ERROR 10.5.14.22 to fetch data
